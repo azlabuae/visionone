@@ -127,6 +127,7 @@ try {
         "-e", $datPath,
         "-pwd", $UnloadPw
         "-acsoff"
+        "-iATASoff"
     )
 
     # Create a safe version for logging (mask password)
